@@ -3,3 +3,6 @@ api_keys/
 
 # ignore all files ending in .apikey
 *.apikey
+
+# ignore local env
+venv/
