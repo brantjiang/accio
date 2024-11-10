@@ -1,0 +1,5 @@
+# ignore all files in api_keys/
+api_keys/
+
+# ignore all files ending in .apikey
+*.apikey
